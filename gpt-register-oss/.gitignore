@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+output_fixed/
+output_tokens/
+admin_token.txt
+config.json
+docker-data/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
